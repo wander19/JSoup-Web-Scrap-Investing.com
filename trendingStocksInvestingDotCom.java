@@ -1,11 +1,11 @@
-import org.jsoup.Jsoup;
+import org.jsoup.Jsoup; // importing Jsoup library
 
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 import java.io.*;
 
-public class trendingStocksInvestingDotCom {
+public class trendingStocks{
 
 	public static void main(String[] args) throws IOException {
 		
